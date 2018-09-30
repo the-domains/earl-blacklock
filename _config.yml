@@ -1,16 +1,16 @@
-typography_spectrum: 0.4079497833736241
+layout_spectrum: 0.8635360906074875
+typography_spectrum: 0.31043203077730863
 color:
-  brandStrength: 0.29579668678343296
-  lightness: 0.2352531247306615
-  saturation: 0.5442370870150626
-  rhythmicContrast: 0.6259112046100199
+  brandStrength: 0.6427553507352782
+  lightness: 0.7474069666270499
+  saturation: 0.3076635919285403
+  rhythmicContrast: 0.6058765557898891
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.2559955471660942
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 author:
   name: TeamB
   email: earl.blacklock@yorkvilleu.com

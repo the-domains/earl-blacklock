@@ -1,0 +1,30 @@
+typography_spectrum: 0.4079497833736241
+color:
+  brandStrength: 0.29579668678343296
+  lightness: 0.2352531247306615
+  saturation: 0.5442370870150626
+  rhythmicContrast: 0.6259112046100199
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.2559955471660942
+author:
+  name: TeamB
+  email: earl.blacklock@yorkvilleu.com
+name: PSYC6104teamb
+url: 'https://thegrid.ai/PSYC6104teamb'
+navigation:
+  - name: Terry Meikle
+    id: 2dbb7ffd-d2fe-41fd-b129-0720e02d2957
+    type: content
+title: Psyc 6104 Team B
+content: []
+description: 'T Cunningham, T Meikle, K Decelle, and E Blacklock'
+purpose:
+  - type: contact
+    url: 'mailto:earl.blacklock@gmail.com'
+    label: Contact me
+github: true

@@ -1,7 +1,7 @@
 ---
 title: Terrie Meikle – Team B - CALGARY
-datePublished: '2018-10-01T00:05:40.168Z'
-dateModified: '2018-10-01T00:04:18.753Z'
+datePublished: '2018-10-01T00:09:50.417Z'
+dateModified: '2018-10-01T00:09:48.737Z'
 publisher: {}
 author: []
 inFeed: false

@@ -1,4 +1,3 @@
-layout_spectrum: 0.8635360906074875
 typography_spectrum: 0.31043203077730863
 color:
   brandStrength: 0.6427553507352782
@@ -11,6 +10,8 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+github: true
+layout_spectrum: 0.8635360906074875
 author:
   name: TeamB
   email: earl.blacklock@yorkvilleu.com
@@ -20,6 +21,9 @@ navigation:
   - name: Terry Meikle
     id: 2dbb7ffd-d2fe-41fd-b129-0720e02d2957
     type: content
+  - name: Earl Blacklock
+    id: 8ca4992e-af2e-47b8-a944-217ac440ca86
+    type: content
 title: Psyc 6104 Team B
 content: []
 description: 'T Cunningham, T Meikle, K Decelle, and E Blacklock'
@@ -27,4 +31,3 @@ purpose:
   - type: contact
     url: 'mailto:earl.blacklock@gmail.com'
     label: Contact me
-github: true

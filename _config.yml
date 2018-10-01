@@ -18,9 +18,6 @@ author:
 name: PSYC6104teamb
 url: 'https://thegrid.ai/PSYC6104teamb'
 navigation:
-  - name: Terry Meikle
-    id: 2dbb7ffd-d2fe-41fd-b129-0720e02d2957
-    type: content
   - name: Earl Blacklock
     id: 8ca4992e-af2e-47b8-a944-217ac440ca86
     type: content

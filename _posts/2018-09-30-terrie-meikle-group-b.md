@@ -1,12 +1,16 @@
 ---
 title: Terrie Meikle – Team B - CALGARY
-datePublished: '2018-10-01T00:09:50.417Z'
-dateModified: '2018-10-01T00:09:48.737Z'
+datePublished: '2018-10-02T06:18:43.618Z'
+dateModified: '2018-10-02T06:18:42.547Z'
 publisher: {}
 author: []
 inFeed: false
 hasPage: true
-description: 'Agencies Covered:'
+description: >-
+  Services: AHS offers detox and recovery services in a two-part format. The
+  first part ensures safe withdrawal and helps clients development healthy
+  self-care practices. The second offers support in transitioning their social
+  habits to ensure long-term success.
 via: {}
 sourcePath: _posts/2018-09-30-terrie-meikle-group-b.md
 starred: false
@@ -15,9 +19,9 @@ url: terrie-meikle-team-b-calgary/index.html
 _type: Blurb
 
 ---
-## Terrie Meikle -- Team B - CALGARY
+# Terrie Meikle -- Team B - CALGARY
 
-### **24-Hour Hotlines and Websites**
+## **24-Hour Hotlines and Websites**
 
 * Addiction Services Helpline: 1-866-332-2322
 * Alcoholics Anonymous: 403-777-1212
@@ -76,7 +80,7 @@ _type: Blurb
 * Treatment Resistant Attention Deficit Disorder Clinic -- Mental Health: 403-943-1500
   * Richmond Road Diagnostic and Treatment Centre
 
-**Agencies Covered:**
+## **Agencies Covered:**
 
 * Alberta Health Services
 * Alcoholic Anonymous
@@ -348,6 +352,9 @@ Referral: No referral is required for therapy but a referral is required for res
 Practicum: Yes
 
 Other: Wood's Homes operates 42 different programs to help individuals, children and families in crisis. They help with depression, anxiety, self-harm, suicide, family violence, addiction and stress.
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98c7e113-11ca-4060-bff5-bb5df4665455.jpg)
 
 [0]: http://bullyfreealberta.ca/
